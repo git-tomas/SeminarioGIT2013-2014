@@ -1,1 +1,2 @@
-Prueba Manu con conflicto
+Hola
+Linea añadida por manuDomin
